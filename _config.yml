@@ -19,7 +19,7 @@ repository: 554768191/554768191.github.io
 github_url: https://github.com/554768191
 cnblog_url: http://www.cnblogs.com/554768191
 url: https://554768191.github.io
-enforce_ssl: java111.com
+enforce_ssl: 554768191.github.io
 
 ## Gem
 plugins:
